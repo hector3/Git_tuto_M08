@@ -1,6 +1,8 @@
 int num1 =0;
 int num2 =0;
 
+*Edited form Github*
+
 System.out.println("First number:");
 num1 = reader.nextInt();
 
